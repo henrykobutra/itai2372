@@ -95,6 +95,25 @@ EnergyBlitz is a cutting-edge energy consumption forecasting system developed fo
 
 This project showcases practical applications of AI and machine learning in the energy sector, demonstrating how data science can address real-world utility challenges.
 
+#### 🍕 CraftPizza-Tony-Bot - NLP Chatbot for Customer Service
+[Repository Link](https://github.com/henrykobutra/craftpizza-tony-bot) | [Live Demo](https://craftpizza-tony-bot.vercel.app)
+
+CraftPizza-Tony-Bot is a pattern-matching chatbot developed for the Natural Language Processing course at Houston Community College. The bot demonstrates practical NLP techniques for handling customer service scenarios:
+
+- **Context-Aware Responses**: Implements pattern-matching algorithms to recognize and respond to different types of pizza delivery complaints
+- **Natural Language Understanding**: Processes customer inquiries about late deliveries, wrong orders, cold food, and missing items
+- **Conversational UI**: Features a modern chat interface with seamless user interaction
+- **Message History Management**: Maintains conversation context to provide relevant follow-up responses
+
+**Technologies Used:**
+- Next.js 15 with TypeScript
+- Tailwind CSS for responsive design
+- Shadcn/UI component library
+- Pattern-matching NLP techniques
+- Context management system
+
+This project demonstrates fundamental NLP principles and conversational AI design in a practical business application context.
+
 ## Acknowledgments
 
 Special thanks to Professor Anna Devarakonda at Houston Community College for guidance throughout the course.
