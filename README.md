@@ -57,8 +57,8 @@ Throughout this course, I've gained expertise in:
 For questions or collaboration opportunities regarding this portfolio, please reach out to me through:
 
 - GitHub: [Your GitHub Profile](https://github.com/henrykobutra)
-- Email: [Your Email](mailto:henrykobutra@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/henrykobutra/)
+- Website: [https://kobutra.com](https://kobutra.com)
 
 ## Related Projects
 
