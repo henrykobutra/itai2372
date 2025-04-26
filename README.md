@@ -76,6 +76,25 @@ Izzy is an AI-powered interview preparation companion developed as part of adjac
 
 This project demonstrates practical applications of AI in professional development and career advancement contexts.
 
+#### ⚡ EnergyBlitz - AI-Powered Energy Forecasting Platform
+[Repository Link](https://github.com/henrykobutra/energyblitz) | [Live Demo](https://energyblitz.vercel.app)
+
+EnergyBlitz is a cutting-edge energy consumption forecasting system developed for ITAI 2277. The platform combines machine learning with real-time analytics to predict future energy usage patterns:
+
+- **Multiple Prediction Models**: Implements four different forecasting algorithms (SARIMA, Random Forest, XGBoost, LSTM) for comparative performance analysis
+- **Weather Integration**: Incorporates NOAA weather data from five different cities to improve prediction accuracy
+- **Interactive Dashboards**: Features comprehensive data visualization for energy consumption patterns
+- **Real-Time Predictions**: Delivers actionable forecasting insights for grid operation
+
+**Technologies Used:**
+- Python ML Stack (scikit-learn, TensorFlow, pandas)
+- Next.js for frontend
+- Interactive data visualization
+- NOAA API integration
+- PJM Interconnection datasets
+
+This project showcases practical applications of AI and machine learning in the energy sector, demonstrating how data science can address real-world utility challenges.
+
 ## Acknowledgments
 
 Special thanks to Professor Anna Devarakonda at Houston Community College for guidance throughout the course.
