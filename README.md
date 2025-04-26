@@ -1,16 +1,12 @@
 # 🤖 AI Applications Portfolio
 
-<div align="center">
-  
-  ![AI](https://img.shields.io/badge/AI-Applications-blue?style=for-the-badge&logo=ai&logoColor=white)
-  ![HCC](https://img.shields.io/badge/Houston-Community_College-red?style=for-the-badge)
-  ![ITAI](https://img.shields.io/badge/ITAI-2372-green?style=for-the-badge)
-  
-  <p align="center">
-    <b>Exploring the Frontiers of Artificial Intelligence Applications Across Industries</b>
-  </p>
-  
-</div>
+![AI](https://img.shields.io/badge/AI-Applications-blue?style=for-the-badge&logo=ai&logoColor=white)
+![HCC](https://img.shields.io/badge/Houston-Community_College-red?style=for-the-badge)
+![ITAI](https://img.shields.io/badge/ITAI-2372-green?style=for-the-badge)
+
+<p>
+  <b>Exploring the Frontiers of Artificial Intelligence Applications Across Industries</b>
+</p>
 
 ---
 
@@ -53,30 +49,28 @@ Throughout this course, I've gained expertise in:
 
 <table>
   <tr>
-    <td align="center"><b>🌐</b></td>
+    <td align="left"><b>🌐</b></td>
     <td><b>Industry-Specific AI Applications</b>: Understanding how AI is applied across various sectors including finance, retail, public sector, and entertainment.</td>
   </tr>
   <tr>
-    <td align="center"><b>💬</b></td>
+    <td align="left"><b>💬</b></td>
     <td><b>Natural Language Processing</b>: Practical experience with Azure Language Studio for sentiment analysis and text classification.</td>
   </tr>
   <tr>
-    <td align="center"><b>⚖️</b></td>
+    <td align="left"><b>⚖️</b></td>
     <td><b>AI Ethics and Implementation</b>: Insights into the challenges, limitations, and ethical considerations when deploying AI solutions.</td>
   </tr>
   <tr>
-    <td align="center"><b>🔍</b></td>
+    <td align="left"><b>🔍</b></td>
     <td><b>Case Study Analysis</b>: Ability to analyze real-world AI implementations and extract valuable lessons.</td>
   </tr>
   <tr>
-    <td align="center"><b>📈</b></td>
+    <td align="left"><b>📈</b></td>
     <td><b>AI Strategy Development</b>: Skills to propose innovative AI applications with clear justifications and implementation approaches.</td>
   </tr>
 </table>
 
 ## 🛠️ Technologies & Tools
-
-<div align="center">
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-yellow?style=for-the-badge)
@@ -84,15 +78,11 @@ Throughout this course, I've gained expertise in:
 ![Text Classification](https://img.shields.io/badge/Text-Classification-blue?style=for-the-badge)
 ![Business Analytics](https://img.shields.io/badge/Business-Analytics-purple?style=for-the-badge)
 
-</div>
-
 ## 📬 Contact Information
 
-<div align="center">
-  <a href="https://github.com/henrykobutra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/henrykobutra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://kobutra.com"><img src="https://img.shields.io/badge/Website-kobutra.com-brightgreen?style=for-the-badge" alt="Website"></a>
-</div>
+<a href="https://github.com/henrykobutra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/henrykobutra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://kobutra.com"><img src="https://img.shields.io/badge/Website-kobutra.com-brightgreen?style=for-the-badge" alt="Website"></a>
 
 ## 🔗 Related Projects
 
@@ -102,11 +92,9 @@ Throughout this course, I've gained expertise in:
 <summary><b>Izzy 🤖 - AI Interview Preparation Platform</b></summary>
 <br>
 
-<div align="center">
-  <a href="https://github.com/henrykobutra/izzy-02">
-    <img src="https://img.shields.io/badge/Repository-GitHub-brightgreen?style=for-the-badge&logo=github" alt="Repository Link">
-  </a>
-</div>
+<a href="https://github.com/henrykobutra/izzy-02">
+  <img src="https://img.shields.io/badge/Repository-GitHub-brightgreen?style=for-the-badge&logo=github" alt="Repository Link">
+</a>
 
 Izzy is an AI-powered interview preparation companion developed as part of adjacent coursework. The platform helps transform job seekers into confident candidates through:
 
@@ -129,14 +117,12 @@ This project demonstrates practical applications of AI in professional developme
 <summary><b>⚡ EnergyBlitz - AI-Powered Energy Forecasting Platform</b></summary>
 <br>
 
-<div align="center">
-  <a href="https://github.com/henrykobutra/energyblitz">
-    <img src="https://img.shields.io/badge/Repository-GitHub-brightgreen?style=for-the-badge&logo=github" alt="Repository Link">
-  </a>
-  <a href="https://energyblitz.vercel.app">
-    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" alt="Live Demo">
-  </a>
-</div>
+<a href="https://github.com/henrykobutra/energyblitz">
+  <img src="https://img.shields.io/badge/Repository-GitHub-brightgreen?style=for-the-badge&logo=github" alt="Repository Link">
+</a>
+<a href="https://energyblitz.vercel.app">
+  <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" alt="Live Demo">
+</a>
 
 EnergyBlitz is a cutting-edge energy consumption forecasting system developed for ITAI 2277. The platform combines machine learning with real-time analytics to predict future energy usage patterns:
 
@@ -159,14 +145,12 @@ This project showcases practical applications of AI and machine learning in the 
 <summary><b>🍕 CraftPizza-Tony-Bot - NLP Chatbot for Customer Service</b></summary>
 <br>
 
-<div align="center">
-  <a href="https://github.com/henrykobutra/craftpizza-tony-bot">
-    <img src="https://img.shields.io/badge/Repository-GitHub-brightgreen?style=for-the-badge&logo=github" alt="Repository Link">
-  </a>
-  <a href="https://craftpizza-tony-bot.vercel.app">
-    <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" alt="Live Demo">
-  </a>
-</div>
+<a href="https://github.com/henrykobutra/craftpizza-tony-bot">
+  <img src="https://img.shields.io/badge/Repository-GitHub-brightgreen?style=for-the-badge&logo=github" alt="Repository Link">
+</a>
+<a href="https://craftpizza-tony-bot.vercel.app">
+  <img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel" alt="Live Demo">
+</a>
 
 CraftPizza-Tony-Bot is a pattern-matching chatbot developed for the Natural Language Processing course at Houston Community College. The bot demonstrates practical NLP techniques for handling customer service scenarios:
 
@@ -189,11 +173,9 @@ This project demonstrates fundamental NLP principles and conversational AI desig
 <summary><b>🖼️ Computer Vision Portfolio - Image Processing & Neural Networks</b></summary>
 <br>
 
-<div align="center">
-  <a href="https://github.com/henrykobutra/itai-1378-portfolio">
-    <img src="https://img.shields.io/badge/Repository-GitHub-brightgreen?style=for-the-badge&logo=github" alt="Repository Link">
-  </a>
-</div>
+<a href="https://github.com/henrykobutra/itai-1378-portfolio">
+  <img src="https://img.shields.io/badge/Repository-GitHub-brightgreen?style=for-the-badge&logo=github" alt="Repository Link">
+</a>
 
 This portfolio showcases projects and experiments from the Computer Vision course (ITAI 1378) at Houston Community College, focusing on teaching machines to "see" and interpret visual information:
 
@@ -218,6 +200,6 @@ Special thanks to Professor Anna Devarakonda at Houston Community College for gu
 
 ---
 
-<div align="center">
+<div>
   <i>This repository serves as a demonstration of my understanding and capabilities in the field of artificial intelligence applications.</i>
 </div>
