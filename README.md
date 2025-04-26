@@ -53,6 +53,29 @@ For questions or collaboration opportunities regarding this portfolio, please re
 - Email: [Your Email]
 - LinkedIn: [Your LinkedIn Profile]
 
+## Related Projects
+
+### Adjacent Coursework
+
+#### Izzy 🤖 - AI Interview Preparation Platform
+[Repository Link](https://github.com/henrykobutra/izzy-02)
+
+Izzy is an AI-powered interview preparation companion developed as part of adjacent coursework. The platform helps transform job seekers into confident candidates through:
+
+- **AI Mock Interviews**: Practice with realistic interview simulations tailored to specific positions
+- **Personalized Feedback**: Receive detailed performance analytics and improvement suggestions
+- **Voice-Powered Interactions**: Experience natural conversations with AI interviewers
+- **Progress Tracking**: Visualize improvement over time with comprehensive analytics
+
+**Technologies Used:**
+- Next.js, React, TailwindCSS
+- shadcn/ui component library
+- Supabase (Auth & PostgreSQL)
+- OpenAI SDK & Google Gemini Pro
+- VAPI for voice agents
+
+This project demonstrates practical applications of AI in professional development and career advancement contexts.
+
 ## Acknowledgments
 
 Special thanks to Professor Anna Devarakonda at Houston Community College for guidance throughout the course.
