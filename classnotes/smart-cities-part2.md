@@ -1,0 +1,41 @@
+- Mid Term Project Due Soon (Next Week)
+  - Should Finish by Mar 1
+  - Topic → Abuse of AI in Depth
+  - Try pick Media and Entertainmanet
+- Smart Cities Notes due this weekend
+- Next weekend Media and Entertainment Notes due
+- Next Week, come prepared with a use case in Abuse in AI
+- Little chit chat about Grok 3
+  - And it's also an assignment
+- Environmental Monitoring (5)
+  - Air quality monitoring
+  - Prof talked about Katy Drought
+  - Hurricane Watch by James
+  - Waste Water suggestion by Richard
+  - Prof. added radiation alerts (UV)
+  - Asked about cloud seeding
+  - Talked about cloud seeding
+- Public Transport (6)
+  - Integrated transit systems
+    - Flight
+    - Road
+  - Brief discussion on cyber attacks
+  - Brief discussion on recent arial accidents
+- Healthcare (7)
+  - Wearables
+  - AI advocating smart wearables to communicate with healthcare
+    - e.g. ambulance, clinics, first aid, etc.
+  - Remote Health Monitoring (1)
+  - Smart Hospitals (2)
+- Citizen Engagements
+  - Mobile Apps
+  - Digital Kiosks
+- Unsolved Problems in Smart Cities for AI
+  - Low perceived ROI on AI investments
+    - can't get more revenue from the public
+  - Ethical AI practices
+    - Fairness and managing biases
+  - Regulatory Ambiguities
+  - Data Breaches / Cybersecurity
+  - May eliminate jobs
+  - AI Transparency

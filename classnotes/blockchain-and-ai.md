@@ -1,0 +1,28 @@
+Thu Mar 6 2025
+
+- Prof. Talks about making money
+- Prof. Statement: Making money is the easiest thing in the world
+- Homework
+  - How to list an NFT on OpenSea
+- Talked a lot about Monkeys (BoredApes) being sold for big money
+  - It hurts because I lost some money trading those, but I made my money back elsewhere
+- Start of note taking
+  - Use cases for AI
+    - Smart Contract Optimization
+    - Smart Contract Creation
+    - Fraud Detection
+    - **_Side note_**: Professor keeps saying that Blockchain was created for the intent of money laundring, although I disagree, because I have been following the technology for so long
+    - Data Marketplace and Monetization
+    - **_Side Note_**: Prof asked not to write about Olu selling donkey's on OpenSea
+    - Supply Chain Management
+      - Predict Demand
+      - Track Orders
+      - Enforce Smart Contracts
+    - ID verification
+    - Predictive analytics in crypto trading
+    - Energy efficiency
+      - for mining
+    - Healthcare Records and Research
+    - Decentralized AI Governance
+      - talks about government use case, like CIA, FBI bounties, etc.
+  -

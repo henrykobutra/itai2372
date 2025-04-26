@@ -1,0 +1,42 @@
+AI Apps Class Notes
+Main Topic AI Applications in the Finance Sector
+Started with call outs for presentations then proceded to talk about AI in the finance sector
+
+- First Presenter James on Donski Bank (Nordic Institution)
+  - Issues with Fraud
+  - Works with Terra Data who do AI solutions
+- Jesus presented next and presented about Navy Federal Credit Union
+  - Got robbed $500
+  - Talked about several fraud topics
+  - claims Federal Credit Union is large at fraud detection
+- **New Assignment**
+  - Data Breaches in the last 10 years
+  - What was caused by AI
+  - What could have AI prevented
+  - Finance Industry
+- Problems created by AI
+  - ML biases
+    - Biases in Finance
+      - 2 types of data AI is abusing
+        - geographic and demographic data
+          - leads to unfair treatment of customers
+        - Card usage data
+          - Denial of dire need of credit increases
+          - Loan processing gets denied without a human element although they should like first time buyer
+            - My thought, AI can get there
+  - Transparency issues in AI
+    - AI usually doesn't give reasons → Because blackbox reasoning
+      - I think AI will also get there, but yeah true
+    - Reminder on Credit Worthiness > Credit Score
+  - Data Breaches
+    - 100% of data breaches were financially motivated in the last 15 years and all because use of technology
+    - call out on RBAC (roll based access control)
+    - AI caused data leaks
+      - Security and confidential compromised
+  - Lots of talk about biases, mostly around male vs female biases
+  - Also example on Jesus applying for a credit card while maxed out an in Las Vegas (likely low chances here)
+- Task: How many data breaches happened in last 10 years in finance
+  - How could AI have prevented those
+- Quick note on eDiscovery
+  - 7 years required to keep transactional data by law enforcements, recently reduced to 3 years
+    - MS declared it for 6 months
